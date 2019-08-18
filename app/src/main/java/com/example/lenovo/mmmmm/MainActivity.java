@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         mStrings = new ArrayList<>();
+        int a=2;
 
 
 
