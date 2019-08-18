@@ -15,9 +15,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         mStrings = new ArrayList<>();
         int a=2;
+
+        int b=3;
 
 
 
